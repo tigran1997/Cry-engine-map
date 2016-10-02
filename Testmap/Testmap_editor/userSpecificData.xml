@@ -1,0 +1,6 @@
+<UserFriendly>
+ <ObjectLayers>
+  <Layer Name="Main" GUID="{4F06917E-898E-4329-8019-B4FB2951F9DD}" Hidden="0" Frozen="0"/>
+  <Layer Name="Roads" GUID="{212E2584-8B63-48C6-B823-FAB25D3708DE}" Hidden="0" Frozen="0"/>
+ </ObjectLayers>
+</UserFriendly>
